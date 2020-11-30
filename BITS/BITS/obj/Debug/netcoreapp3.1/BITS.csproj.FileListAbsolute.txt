@@ -1,0 +1,12 @@
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\obj\Debug\netcoreapp3.1\BITS.AssemblyInfoInputs.cache
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\obj\Debug\netcoreapp3.1\BITS.AssemblyInfo.cs
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\bin\Debug\netcoreapp3.1\BITS.deps.json
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\bin\Debug\netcoreapp3.1\BITS.runtimeconfig.json
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\bin\Debug\netcoreapp3.1\BITS.runtimeconfig.dev.json
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\bin\Debug\netcoreapp3.1\BITS.dll
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\bin\Debug\netcoreapp3.1\BITS.pdb
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\obj\Debug\netcoreapp3.1\BITS.dll
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\obj\Debug\netcoreapp3.1\BITS.pdb
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\obj\Debug\netcoreapp3.1\BITS.genruntimeconfig.cache
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\obj\Debug\netcoreapp3.1\BITS.csproj.CoreCompileInputs.cache
+C:\Users\FreshZeph\Desktop\School\Fall\CS 234N\Brewery Final\Temp\BITS\BITS\bin\Debug\netcoreapp3.1\mySqlSettings.json
