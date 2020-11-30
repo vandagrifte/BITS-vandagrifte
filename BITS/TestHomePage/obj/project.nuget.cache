@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eYIAAC0MXhHa+zvzblkawsQSo/yqO/s/JnMohiqgO9jXGI8ybQztHdG1iwF+iuYDIQwp/9YJHJyHsTo46Or8jA==",
+  "dgSpecHash": "CmFsJZUS+73w1r6noLs6BVFafH7K4Lc6k6e/Su8kDHBvjm3oIic5NmNLvlnaqyijH9AfHGV4VWmssaZGEHm1ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS\\TestHomePage\\TestHomePage.csproj",
+  "projectFilePath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS-vandagrifte\\BITS\\TestHomePage\\TestHomePage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FreshZeph\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\FreshZeph\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

@@ -7146,11 +7146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS\\TestHomePage\\TestHomePage.csproj",
+      "projectUniqueName": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS-vandagrifte\\BITS\\TestHomePage\\TestHomePage.csproj",
       "projectName": "TestHomePage",
-      "projectPath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS\\TestHomePage\\TestHomePage.csproj",
+      "projectPath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS-vandagrifte\\BITS\\TestHomePage\\TestHomePage.csproj",
       "packagesPath": "C:\\Users\\FreshZeph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS\\TestHomePage\\obj\\",
+      "outputPath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS-vandagrifte\\BITS\\TestHomePage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -7171,8 +7171,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS\\BITS\\BITS.csproj": {
-              "projectPath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS\\BITS\\BITS.csproj"
+            "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS-vandagrifte\\BITS\\BITS\\BITS.csproj": {
+              "projectPath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS-vandagrifte\\BITS\\BITS\\BITS.csproj"
             }
           }
         }

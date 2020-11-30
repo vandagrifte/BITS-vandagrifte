@@ -6650,11 +6650,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS\\BITS\\BITS.csproj",
+      "projectUniqueName": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS-vandagrifte\\BITS\\BITS\\BITS.csproj",
       "projectName": "BITS",
-      "projectPath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS\\BITS\\BITS.csproj",
+      "projectPath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS-vandagrifte\\BITS\\BITS\\BITS.csproj",
       "packagesPath": "C:\\Users\\FreshZeph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS\\BITS\\obj\\",
+      "outputPath": "C:\\Users\\FreshZeph\\Desktop\\School\\Fall\\CS 234N\\Brewery Final\\Temp\\BITS-vandagrifte\\BITS\\BITS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
